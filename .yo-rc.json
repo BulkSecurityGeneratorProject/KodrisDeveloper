@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "KodrisDeveloper",
+    "packageName": "cpm.kodris.developer",
+    "packageFolder": "cpm/kodris/developer",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "languages": [
+      "ar-ly",
+      "en",
+      "fr",
+      "ru",
+      "tr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MmIxNTYwZTYyMzQxYTg0Mzg1YzkyNzJkN2MxYzUzMGY0NmEyMjY1YmRlYTliNTE5NTAxOWZhMDJlNmQ5NWUwNjQ5YmI1OWQ5YTQzMzgxYjlhMzBlMTBjYmI3MGVhNjIyY2Y1ZjAwNGIyOWZkNGQ2MGM5ZDljYjYyMmU4NDNlZDQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "yilmazax",
+  "repository-name": "KodrisDeveloper"
+}
